@@ -56,6 +56,8 @@ Forge can use source-backed context from [Atlas’ Notes](https://github.com/Nor
 
 For a bug report, include the Service Studio and agent versions, module style, workflow stage, expected result, and a small redacted example. For a change to the skill, describe the behavior and which checks ran. Use synthetic data and keep credentials, private URLs, and session state out of shared evidence.
 
+See the [sample delivery record](examples/equipment-notes/sample-delivery.md) for how to report model validation while merge, deployment, and runtime checks are still pending.
+
 ## License
 
 Released under the [MIT license](LICENSE).

@@ -14,4 +14,6 @@ Turn an OutSystems 11 request into verified behavior. Scope the work to the auth
 4. Use [verification](references/verification.md) to check the affected model and served result. Publish to the authorized environment only. Record model validation, merge, deployment, runtime, visual review, and mobile checks as distinct evidence.
 5. Return the [delivery record](assets/delivery.md), or hand scoped results back to a requesting workflow through the [`atlas-workflow/v1` packet](assets/packet.md).
 
+For a planning-only request, finish with a build-ready plan naming the firsthand facts, assumptions, affected module or screen, data and permission boundaries, and acceptance checks. Mark implementation and runtime as pending. A live change needs Service Studio and the applicable official workflow.
+
 A visual prototype can guide an implementation. Service Studio owns OutSystems application changes. Traditional Web work needs the matching platform lifecycle and tool guidance.
