@@ -1,0 +1,6 @@
+interface:
+  display_name: "Forge OutSystems 11"
+  short_description: "Build and verify OutSystems 11 features"
+  default_prompt: "Use $forge-outsystems-11 to inspect the target module and plan verification."
+policy:
+  allow_implicit_invocation: true

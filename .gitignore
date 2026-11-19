@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.oml
+*.oap
+.playwright-cli/
+playwright/.auth/
+playwright-report/
+test-results/

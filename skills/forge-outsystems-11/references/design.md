@@ -1,0 +1,11 @@
+# O11 design routing
+Impeccable leads hierarchy/layout/typography/critique. Follow its installed context launcher and relevant playbook; read craft-floor before UI edits. O11's remote model may leave local-file detectors without coverage: report that, inspect the published DOM.
+UI UX Pro Max answers a particular pattern uncertainty with verified relevant search results. Feed recommendations into the single project specification; no competing generated theme.
+Emil supplies applicable interaction/mobile/worst-case/motion expertise. O11 does not acquire React, Expo, Swift or Sonner dependencies because a recipe uses them. No animation is appropriate when it best serves the task.
+Taste is optional for an eligible branded/marketing surface. Its mandatory hero/full-screen/photo/contact rules can conflict with business screens and factual copy: skip it when incompatible, rather than silently claiming compliance. User facts, accessibility and project conventions govern selection.
+Unslop is a scoped final review, not another visual authority. Modern Web Guidance applies to custom browser code when available; on another host consult authoritative browser docs for relevant gaps.
+Figma is optional for substantial exploration or supplied designs. Its authentication is per host. Do not let unavailable Figma block native O11 work. Translate the design into native components and inspect the actual result.
+
+Specify relationships: card insets on every edge; title-to-description spacing; label-to-field association; group separation; breathing room around dividers; arrow clearance; header vertical alignment; visible links/focus; long-label wrapping. Use a small semantic spacing/type/color scale and shared blocks/theme rules. Numeric defaults are proposals until rendered and checked.
+Refinement preserves incumbent identity; redesign changes the visual system only within scope. Pick relevant references by user task and density, not a marketing homepage for an admin table. Record what a reference teaches, not a mandate to clone it.
+Define populated/empty/loading/invalid/failure/success/denied states and responsive behavior. Navigation includes entry, next destination, recognizable back/parent links where useful, and unsaved-change handling. Login must land the actual user in an appropriate accessible destination.
