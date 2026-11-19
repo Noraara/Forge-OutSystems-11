@@ -52,6 +52,22 @@ For a visual feature, Forge can use existing design tools and browser testing. [
 
 Forge can use source-backed context from [Atlas’ Notes](https://github.com/Noraara/Atlas-Notes) through the [`atlas-workflow/v1` handoff](skills/forge-outsystems-11/assets/packet.md). A vault is optional.
 
+## From a feature request to a served build
+
+The Equipment Notes example starts with a technician’s ability to save and reopen a personal note. Forge identifies the actual Reactive Web module, the signed-in actor, and the existing persistence and UI conventions. It turns the brief into a small native form, a server action for validation and ownership, and acceptance checks for successful save, reload, bad input, and access by a second test user.
+
+For a build request, Forge verifies the active Service Studio environment before opening a write session. The installed official Model API skill governs model work. After editing, Forge reads the validation and merge outcome, checks dependencies where relevant, and publishes only to the authorized environment. Browser or device tests then exercise the served build.
+
+## Choose the finish line
+
+| Request | What you should get back |
+| --- | --- |
+| Inspect an existing feature | The real module and evidence for the current behavior, plus the remaining unknowns. |
+| Plan a change | A build-ready feature plan with module, data and permission boundaries, and acceptance checks. |
+| Implement and verify | The changed artifacts and separate results for model validation, merge, publish, runtime, visual review, and device checks as applicable. |
+
+A planning request can use the supplied brief and project files. Live delivery uses Service Studio. The [sample delivery record](examples/equipment-notes/sample-delivery.md) illustrates how to report a validated edit session when deployment and runtime checks are still pending.
+
 ## Help and contributing
 
 For a bug report, include the Service Studio and agent versions, module style, workflow stage, expected result, and a small redacted example. For a change to the skill, describe the behavior and which checks ran. Use synthetic data and keep credentials, private URLs, and session state out of shared evidence.
